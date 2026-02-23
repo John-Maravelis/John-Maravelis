@@ -1,4 +1,4 @@
-# Hi there, I'm John! 👋
+# Hey there, I'm John! 👋
 
 ### 👨‍💻 Web Developer | Python Enthusiast 🐍
 
