@@ -27,7 +27,7 @@ I am a passionate Web Developer focused on building clean, efficient, and secure
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=John-Maravelis&show_icons=true&theme=vibrant&hide_border=true" alt="John's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-Maravelis&theme=transparent&hide_border=true" width="400" alt="John's Streak" />
 </p>
 
 ---
